@@ -1,0 +1,16 @@
+id,meaning
+1,curve right
+2,turn right
+3,u-turn right
+4,u-turn left
+5,side road from right
+6,side road from left
+7,road narrower from left
+8,road narrower from right
+9,road merging from left
+10,sliding road ahead
+11,pass on either side
+12,two ways road
+13,two ways ahead
+14,"Double curve, first to left"
+15,Roundabout ahead
