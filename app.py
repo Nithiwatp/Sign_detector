@@ -10,7 +10,7 @@ from cv2 import imread, resize, imwrite, cvtColor, COLOR_BGR2RGB, COLOR_BGR2GRAY
 from skimage.metrics import structural_similarity as ssim
 
 # import labels for the reference images
-labels = pd.read_csv('/content/drive/MyDrive/spyder photo/ref/labels.csv',index_col = 0)
+labels = pd.read_csv('./labels.csv',index_col = 0)
 
 #===================== Functions =================================================
 def crop_sign(img):
