@@ -1,0 +1,12 @@
+# สร้างไฟล์ css สำหรับ customization for web
+header, footer {
+    visibility: hidden;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+.block-container{
+    padding: 0px 0px 40px;
+}
