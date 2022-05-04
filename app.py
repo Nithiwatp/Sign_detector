@@ -164,7 +164,7 @@ if img is not None:
     values = []
     j = 1
     while j <= 15:
-        ref = get_resize_image(j,"/content/drive/MyDrive/spyder photo/ref/")
+        ref = get_resize_image(j,"./ref_images/ref/")
         values.append(compare_images(gray,ref))
         j+=1
     
