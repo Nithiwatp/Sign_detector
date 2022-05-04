@@ -3,3 +3,4 @@ pillow==7.1.2
 streamlit==1.8.1
 opencv-python-headless
 matplotlib==3.5.2
+scikit-image==0.19.2
